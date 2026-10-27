@@ -1,5 +1,5 @@
 # Java_Journey
-                            Enrolled in a Tesda Java Program
+<center> Enrolled in a Tesda Java Program </center>
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Day 1 - Learned the basic and it's history
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
