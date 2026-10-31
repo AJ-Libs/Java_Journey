@@ -24,3 +24,16 @@ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv <br>
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <br>
 Day  6 - Java Operators <br>
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv <br>
+<br>
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <br>
+Day  7 - Java Operators <br>
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv <br>
+<br>
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <br>
+Day  8 - Java Operators <br>
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv <br>
+<br>
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <br>
+Day  9 - Java Operators <br>
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv <br>
+<br>
